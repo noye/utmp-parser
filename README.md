@@ -8,7 +8,7 @@ This tool is a binary for Windows that will help you check the utmp information 
 * utmpx.exe [file_path]
 
 ### example
-'''
+```
 C:\test>utmpx.exe C:\Users\Owner\Desktop\utmp
 [type] : BOOT_TIME
 [user] : reboot
@@ -36,4 +36,4 @@ C:\test>utmpx.exe C:\Users\Owner\Desktop\utmp
 [user] : noye
 [host] : :0
 [time] : Sun Jan 01 20:15:51 2017
-'''
+```
